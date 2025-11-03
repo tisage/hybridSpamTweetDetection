@@ -33,13 +33,13 @@ If you use this code or datasets in your research, please cite our paper:
 
 ```bibtex
 @article{wang2025hybrid,
-  title={A Hybrid Ensemble Method for Spam Tweet Detection using Imbalanced Datasets},
+  title={A hybrid ensemble method for spam tweet detection using imbalanced datasets},
   author={Wang, Tianyu and Genc, Yegin and Chen, Li-Chiou},
   journal={Information Security Journal: A Global Perspective},
+  pages={1--18},
   year={2025},
-  publisher={Taylor \& Francis},
   doi={10.1080/19393555.2025.2575221},
-  url={https://doi.org/10.1080/19393555.2025.2575221}
+  publisher={Taylor \& Francis}
 }
 ```
 
